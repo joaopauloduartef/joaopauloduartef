@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=João%20Paulo%20Duarte&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Área+1+%7C+Área+2+%7C+Área+3&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</div>
 
-<!--
-**joaopauloduartef/joaopauloduartef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badges de contato — substitua os placeholders pelos seus dados -->
+<div align="center">
+  <a href="https://github.com/joaopauloduartef">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU_PERFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joaopaulomelo14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<!-- Badge da instituição — substitua NOME+DO+CURSO, NOME+DA+INSTITUIÇÃO e a cor (006400 = verde escuro) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Matemática Aplicada e Computacional-UFS-004684?style=for-the-badge"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## Sobre mim
+
+Sou graduando em Matemática Aplicada e Computacional na Universidade Federal de Sergipe, com formação técnica em Informática pelo Instituto Federal de Sergipe. Meu foco é unir rigor matemático a ferramentas computacionais para resolver problemas reais, seja em empresas, instituições de pesquisa ou projetos de impacto.
+ 
+Tenho concentrado minha trajetória em três frentes principais:
+ 
+Machine Learning — desenvolvimento de modelos preditivos, algoritmos de classificação e treinamento de redes neurais com PyTorch.
+ 
+Visão Computacional — implementação de pipelines para processamento de imagens, extração de características e sistemas de reconhecimento/verificação facial.
+ 
+Análise de Dados — engenharia e parsing de grandes volumes de dados brutos para limpeza, auditoria, geração de insights e dashboards analíticos.
+
+## Tecnologias e Ferramentas
+
+<!-- Liste as tecnologias separadas por vírgula — veja as disponíveis em: https://skillicons.dev -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,vscode"/>
+</div>
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [nome-do-projeto](https://github.com/joaopauloduartef/nome-do-projeto) | Breve descrição | Python, SQLite |
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=100&section=footer" width="100%"/>
+</div>
