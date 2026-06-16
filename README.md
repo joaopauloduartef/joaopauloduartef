@@ -38,7 +38,7 @@ Análise de Dados — engenharia e parsing de grandes volumes de dados brutos pa
 
 <!-- Liste as tecnologias separadas por vírgula — veja as disponíveis em: https://skillicons.dev -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,postgres,sqlite,git,github,vscode"/>
 </div>
 
 ## Projetos em destaque
