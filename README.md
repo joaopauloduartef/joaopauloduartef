@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=João%20Paulo%20Duarte&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Área+1+%7C+Área+2+%7C+Área+3&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=João%20Paulo%20Duarte&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data Science+%7C+Computer Vision+%7C+Machine Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Badges de contato — substitua os placeholders pelos seus dados -->
@@ -7,7 +7,7 @@
   <a href="https://github.com/joaopauloduartef">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/SEU_PERFIL">
+  <a href="https://linkedin.com/in/joão-paulo-duarte-99017120a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:joaopaulomelo14@gmail.com">
