@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=João%20Paulo%20Duarte&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data Science+%7C+Computer Vision+%7C+Machine Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=Joao%20Paulo%20Duarte&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
-
 <!-- Badges de contato — substitua os placeholders pelos seus dados -->
 <div align="center">
   <a href="https://github.com/joaopauloduartef">
