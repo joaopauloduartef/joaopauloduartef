@@ -44,8 +44,8 @@ Análise de Dados — engenharia e parsing de grandes volumes de dados brutos pa
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [reconhecimento-facial](https://github.com/joaopauloduartef/reconhecimento-facial) | Sistema de Verificação de Identidade e Reconhecimento Facial. | Python, PyTorch, Scikit-Learn |
-
+| [reconhecimento-facial](https://github.com/joaopauloduartef/reconhecimento-facial) | Python, PyTorch, Scikit-Learn |
+| [analise-dados-tre](https://github.com/joaopauloduartef/analise-dados-tre.git) | Python, Pandas, Streamlit |
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=100&section=footer" width="100%"/>
