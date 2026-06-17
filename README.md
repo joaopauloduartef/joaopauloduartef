@@ -44,7 +44,7 @@ Análise de Dados — engenharia e parsing de grandes volumes de dados brutos pa
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [reconhecimento-facial](https://github.com/joaopauloduartef/reconhecimento-facial) | Sistema de visão computacional para verificação de identidades utilizando extração de embeddings e agrupamento geométrico (KNN). | Python, PyTorch, Scikit-Learn |
+| [reconhecimento-facial](https://github.com/joaopauloduartef/reconhecimento-facial) | Sistema de Verificação de Identidade e Reconhecimento Facial. | Python, PyTorch, Scikit-Learn |
 
 
 <div align="center">
