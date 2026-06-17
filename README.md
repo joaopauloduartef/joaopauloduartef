@@ -44,7 +44,8 @@ Análise de Dados — engenharia e parsing de grandes volumes de dados brutos pa
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [nome-do-projeto](https://github.com/joaopauloduartef/nome-do-projeto) | Breve descrição | Python, SQLite |
+| [reconhecimento-facial](https://github.com/joaopauloduartef/reconhecimento-facial) | Sistema de visão computacional para verificação de identidades utilizando extração de embeddings e agrupamento geométrico (KNN). | Python, PyTorch, Scikit-Learn |
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=100&section=footer" width="100%"/>
